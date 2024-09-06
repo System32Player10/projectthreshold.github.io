@@ -1,1 +1,2 @@
-# Project-Threshold
+# Project Threshold
+**ProjectThreshold** is the codename for the website dedicated to **Saint Angela Leadership Team (SALT)**. This platform serves as a central hub for showcasing the activities and initiatives of SALT. The website features a dynamic welcome screen with an image slider controlled by a webmaster, detailed sections on past and upcoming programs, insights into the leadership structure, and a portfolio of public projects, including educational tools like downloadable games. Designed to be both informative and engaging, ProjectThreshold aims to reflect the innovative and collaborative spirit of OSIS, providing a valuable resource for students and school activities.
